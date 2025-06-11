@@ -1,0 +1,10 @@
+.background {
+  background-image: url("../images/download.jpg");
+  background-position: center top 0px;
+  background-repeat: no-repeat;
+}
+
+h3 {
+  text-shadow: 0 0 3px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff,
+    0 0 40px #cccccc, 0 0 80px #aaaaaa;
+}
